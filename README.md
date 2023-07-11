@@ -1,15 +1,18 @@
 ```py
 class Lunacia:
-    def __init__(self):
-        self.name = "Lunacia"
-        self.age = 19
+    name = "Lunacia"
+    alias = ["LunaciaLuna"]
+    age = 19
         
     languagesList = {
         "VN": language.Vietnamese,
         "EN": language.English,
         "DE": language.Deutsch
     }
-    
+
+    nationality = country.Vietnam
+    personality = type16.INFP
+
     def status():
-        print("sleeping...")
+        print("sleepy...")
 ```

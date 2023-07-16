@@ -15,4 +15,7 @@ class Lunacia:
 
     def status():
         print("sleepy...")
+
+me = Lunacia()
+# Have a nice day!
 ```

@@ -2,7 +2,7 @@
 class Lunacia:
     name = "Lunacia"
     alias = ["LunaciaLuna"]
-    age = 19
+    age = 20
         
     languagesList = {
         "VN": language.Vietnamese,

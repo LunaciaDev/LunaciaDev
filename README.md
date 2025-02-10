@@ -13,6 +13,8 @@ class Lunacia:
     nationality = country.Vietnam
     personality = type16.INFP
 
+    imageSource = r"https://x.com/ahppple/status/1213631167351537665"
+
     def status():
         print("sleepy...")
 
